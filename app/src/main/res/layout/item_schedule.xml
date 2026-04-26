@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tv_course_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mata Kuliah"
+            android:textColor="#6750A4"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_day_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Hari, 08:00 - 10:30"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/tv_room_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ruangan: Lab 1 | Kelompok: AA"
+            android:textColor="@android:color/darker_gray" />
+
+        <TextView
+            android:id="@+id/tv_lecturer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Dosen: Nama Dosen"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

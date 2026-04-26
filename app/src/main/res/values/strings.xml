@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyStudentApp</string>
+    <string name="univ_name">UNIVERSITAS\nBUDI LUHUR</string>
+    <string name="form_title">Student Registration Form</string>
+    <string name="hint_fullname">Enter Fullname</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="btn_register">Register</string>
+    <string name="content_description_logo">University Logo</string>
+    <string name="msg_please_fill_all">Harap isi semua data</string>
+    <string name="msg_please_fill_login">Harap isi email dan password</string>
+    <string name="msg_login_success">Login Berhasil!</string>
+    <string name="msg_login_failed">Email atau Password salah</string>
+    <string name="msg_save_success">Data berhasil disimpan!</string>
+    <string name="title_login">Login</string>
+    <string name="hint_email_login">Email</string>
+    <string name="hint_password_login">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="register_link">Don\'t have an account? Register</string>
+    <string name="login_link">Already have an account? Login</string>
+    <string name="msg_register_success">Registrasi berhasil! Silakan Login</string>
+    <string name="title_schedule">Jadwal Kuliah</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="btn_view_schedule">Lihat Jadwal Kuliah</string>
+    <string name="btn_logout">Log out</string>
+</resources>
