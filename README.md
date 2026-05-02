@@ -8,7 +8,7 @@
 
 ### 1. Welcome & Registration
 ![Register Screen](Berhasil_Registrasi.png)
-* **Tujuan:** Pintu masuk bagi pengguna baru.
+* **Tujuan:** buat akun bagi pengguna baru.
 * **Fitur Utama:** Form pendaftaran dengan dukungan **Autofill** dan validasi real-time.
 
 ### Validate the contents of all data
@@ -23,7 +23,7 @@
 
 ### Semester Content Validation
 ![Register Screen](Valiadsi_Isi_Semester.png)
-* **Tujuan:** validasi wajib isi semua data.
+* **Tujuan:** validasi wajib pilih semester.
 * **Fitur Utama:** Form pendaftaran dengan dukungan **Autofill** dan validasi real-time.
 
 
