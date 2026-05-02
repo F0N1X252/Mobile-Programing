@@ -7,9 +7,25 @@
 ## 📱 Alur Aplikasi & Pengalaman Pengguna
 
 ### 1. Welcome & Registration
-![Register Screen](Register2.png)
+![Register Screen](Berhasil_Registrasi.png)
 * **Tujuan:** Pintu masuk bagi pengguna baru.
 * **Fitur Utama:** Form pendaftaran dengan dukungan **Autofill** dan validasi real-time.
+
+### Validate the contents of all data
+![Register Screen](Validasi_Isi_Semua_Data.png)
+* **Tujuan:** validasi wajib isi semua data.
+* **Fitur Utama:** Form pendaftaran dengan dukungan **Autofill** dan validasi real-time.
+
+### Validate Tick Approval
+![Register Screen](Validasi_Centang_Persetujuan.png)
+* **Tujuan:** validasi wajib centang Persetujuan.
+* **Fitur Utama:** Form pendaftaran dengan dukungan **Autofill** dan validasi real-time.
+
+### Semester Content Validation
+![Register Screen](Valiadsi_Isi_Semester.png)
+* **Tujuan:** validasi wajib isi semua data.
+* **Fitur Utama:** Form pendaftaran dengan dukungan **Autofill** dan validasi real-time.
+
 
 ### 2. Secure Login
 ![Login Screen](Login2.png)
