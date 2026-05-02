@@ -24,4 +24,33 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="btn_view_schedule">Lihat Jadwal Kuliah</string>
     <string name="btn_logout">Log out</string>
+
+    <string name="label_fullname">Fullname</string>
+    <string name="label_password">Password</string>
+    <string name="label_email">Email</string>
+    <string name="label_address">Address</string>
+    <string name="label_jurusan">Jurusan</string>
+    <string name="label_semester_main">Semester</string>
+    <string name="label_agreement_main">Agreement</string>
+    <string name="label_agreement_text">Saya menyetujui data yang diinput</string>
+    <string name="result_placeholder">Hasil akan muncul di sini</string>
+    <string name="result_header">Data yang Didaftarkan:</string>
+
+    <string name="semester_even">Genap 2025/2026</string>
+    <string name="semester_gasal">Gasal 2025/2026</string>
+
+    <string name="dept_informatics">Teknik Informatika</string>
+    <string name="dept_is">Sistem Informasi</string>
+    <string name="dept_cs">Ilmu Komputer</string>
+    <string name="dept_prompt">-- Pilih Jurusan --</string>
+
+    <string name="error_dept">Harap pilih jurusan</string>
+    <string name="error_semester">Harap pilih semester</string>
+    <string name="error_agreement">Harap centang persetujuan</string>
+
+    <string name="label_name_result">Nama</string>
+    <string name="label_email_result">Email</string>
+    <string name="label_address_result">Address</string>
+    <string name="label_jurusan_result">Jurusan</string>
+    <string name="label_semester_result">Semester</string>
 </resources>
